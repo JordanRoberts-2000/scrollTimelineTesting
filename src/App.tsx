@@ -1,12 +1,12 @@
-import HeaderAndShiftingMain2 from "./components/stralla/header2/Header&ShiftingMain2"
-import Dialog from "./components/stralla/model/Dialog"
-import Model from "./components/stralla/model/Model"
-import Header2 from "./components/ui/header2/Header2"
-import libraryImage from './assets/images/library.jpg'
-import homeImage from './assets/images/home.jpg'
-import AdvancedImage from "./components/stralla/image/advancedImage"
-import React from "react"
-import ScrollTracker from "./components/stralla/misc/scrolling/ScrollTracker"
+// import HeaderAndShiftingMain2 from "./components/stralla/header2/Header&ShiftingMain2"
+// import Dialog from "./components/stralla/model/Dialog"
+// import Model from "./components/stralla/model/Model"
+// import Header2 from "./components/ui/header2/Header2"
+// import libraryImage from './assets/images/library.jpg'
+// import homeImage from './assets/images/home.jpg'
+// import AdvancedImage from "./components/stralla/image/advancedImage"
+// import React from "react"
+// import ScrollTracker from "./components/stralla/misc/scrolling/ScrollTracker"
 // import { useAtom } from 'jotai'
 // import { setModelAtom } from "./store/store"
 
